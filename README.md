@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijay-km
 - 👀 I’m interested in software development and Machine Learing
-- 🌱 I’m currently learning web development and competitive coding
+- 🌱 I'm working on my competitive programming skills  
 - 📫 How to reach me 'vijaykm@iitk.ac.in, 6389551138'
 
 <!---
