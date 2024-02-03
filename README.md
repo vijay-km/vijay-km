@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vijay-km
-- 👀 I’m interested in software development and Machine Learing
-- 🌱 I'm working on my competitive programming skills  
+- 👀 I’m interested in software development 
 - 📫 How to reach me 'vijaymaurya912082@gmail.com, 6389551138'
 
 <!---
