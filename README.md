@@ -18,4 +18,4 @@
 ![Postman](https://img.shields.io/badge/-Postman-lightgrey)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay-km&show_icons=true&theme=radical&line_height=24&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay-km&show_icons=true&theme=radical&line_height=24&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&custom_title=GitHub%20Contributions)
