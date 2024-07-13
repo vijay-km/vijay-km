@@ -6,6 +6,7 @@
 ## Tech Stack
 
 <!-- Insert tech stack logos here -->
+
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-red)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![React](https://img.shields.io/badge/-React-blue)
@@ -16,6 +17,11 @@
 ![Git](https://img.shields.io/badge/-Git-orange)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blueviolet)
 ![Postman](https://img.shields.io/badge/-Postman-lightgrey)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-success)
+![Oracle](https://img.shields.io/badge/-Oracle-red)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-yellow)
 
 
+
+![Profile views](https://komarev.com/ghpvc/?username=vijay-km)
 
